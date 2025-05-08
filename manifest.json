@@ -1,0 +1,201 @@
+{
+  "version": 1,
+  "locale": "en_GB.UTF-8",
+  "metadata": {
+    "appmode": "python-streamlit",
+    "entrypoint": "app"
+  },
+  "python": {
+    "version": "3.11.4",
+    "package_manager": {
+      "name": "pip",
+      "version": "23.3.1",
+      "package_file": "requirements.txt"
+    }
+  },
+  "files": {
+    "requirements.txt": {
+      "checksum": "4743e0f9496b29c998a74197f77a9f3b"
+    },
+    ".DS_Store": {
+      "checksum": "08a7f6068860871d96f529653100ffcd"
+    },
+    "app.py": {
+      "checksum": "2087f26e0ed97b2d50f6bad0541f000b"
+    },
+    "data/.DS_Store": {
+      "checksum": "194577a7e20bdcc7afbb718f502c134c"
+    },
+    "data/GB1_GB2_TR1_22_23_23_24_24_25.csv.zip": {
+      "checksum": "3a53d4c14f68b5f09184cf3781aa03a6"
+    },
+    "data/Grouped_Player_Final.csv": {
+      "checksum": "fa26819e2cd85b4aceffc877f3f4f271"
+    },
+    "input/.DS_Store": {
+      "checksum": "097371934cb5a7741434822a26281993"
+    },
+    "input/badges/.DS_Store": {
+      "checksum": "194577a7e20bdcc7afbb718f502c134c"
+    },
+    "input/badges/AFC_Bournemouth.png": {
+      "checksum": "e94734e6d0202a6049fa3e9fc3a8a925"
+    },
+    "input/badges/AFC_Bournemouth_background.png": {
+      "checksum": "0eef2a890d5139c6fab37065b28aea2e"
+    },
+    "input/badges/Arsenal.png": {
+      "checksum": "44ed49614ca46006450a746ed599e9f5"
+    },
+    "input/badges/Arsenal_background.png": {
+      "checksum": "2614a6d744eb80d003c476b55bee13cd"
+    },
+    "input/badges/Aston_Villa.png": {
+      "checksum": "65b305f0603d434b8bea794a7188e945"
+    },
+    "input/badges/Aston_Villa_background.png": {
+      "checksum": "8fec74d4b285e98b0e7ab8714c72fda9"
+    },
+    "input/badges/Brentford.png": {
+      "checksum": "0a052031d252e1e48750812d65e8a76d"
+    },
+    "input/badges/Brentford_background.png": {
+      "checksum": "5c40b3cf048316378e93b8eafa1ae0db"
+    },
+    "input/badges/Brighton_&_Hove_Albion.png": {
+      "checksum": "047b7d39de4f0e6c4441d9af6813c0d2"
+    },
+    "input/badges/Brighton_&_Hove_Albion_background.png": {
+      "checksum": "5472ff3eb7b203d5277a9c4f854d1479"
+    },
+    "input/badges/Burnley.png": {
+      "checksum": "808e9fbb39318dd04fdc4318a5b77b73"
+    },
+    "input/badges/Burnley_background.png": {
+      "checksum": "25cde2dbd55876c8b2dcd4005061e7e7"
+    },
+    "input/badges/Chelsea.png": {
+      "checksum": "dca316d934cedd84fcaee8df13aa0f9f"
+    },
+    "input/badges/Chelsea_background.png": {
+      "checksum": "f9c52a70727868f1244bb2c5c1d5dd5f"
+    },
+    "input/badges/Crystal_Palace.png": {
+      "checksum": "db022487e4faa0b664e92f74b2811682"
+    },
+    "input/badges/Crystal_Palace_background.png": {
+      "checksum": "0d55ddf73aa25262e9f9ea2bf474523f"
+    },
+    "input/badges/Everton.png": {
+      "checksum": "ad5f78f29463a8b9069403b4cb8fe5c8"
+    },
+    "input/badges/Everton_background.png": {
+      "checksum": "96cfeb46d6e4ac95b72f23229c0019ba"
+    },
+    "input/badges/Fulham.png": {
+      "checksum": "8a1d7cc32795d389e0a7b156f31c2199"
+    },
+    "input/badges/Fulham_background.png": {
+      "checksum": "0f284197fcfb1e27f23c15d8a5ca3d77"
+    },
+    "input/badges/Ipswich_Town.png": {
+      "checksum": "bbda46cb018f7d83530b2fb419ca2da2"
+    },
+    "input/badges/Ipswich_Town_background.png": {
+      "checksum": "59b558eadd0a9708817c4b25a146f74b"
+    },
+    "input/badges/Leicester_City.png": {
+      "checksum": "a8557e6916c5f2912718bdc43ec6542a"
+    },
+    "input/badges/Leicester_City_background.png": {
+      "checksum": "fd27044a312c47232d8afcafdb6334d9"
+    },
+    "input/badges/Liverpool.png": {
+      "checksum": "f71806270926f2fef63cba2efa9db33c"
+    },
+    "input/badges/Liverpool_background.png": {
+      "checksum": "4f6210a5d5c87f904fab79026917799b"
+    },
+    "input/badges/Luton.png": {
+      "checksum": "d9288e8e5611773615bd9bd917e504da"
+    },
+    "input/badges/Luton_background.png": {
+      "checksum": "bdc107c65dce687dd13c711389bb9d54"
+    },
+    "input/badges/Manchester_City.png": {
+      "checksum": "b988430b01a4804fee4af5f7ab1583d7"
+    },
+    "input/badges/Manchester_City_background.png": {
+      "checksum": "a3bab61eb9ce7cf9c6b4b7916d5c666d"
+    },
+    "input/badges/Manchester_United.png": {
+      "checksum": "19a1e6ee0735cebfbab0ba87bc3ee3b0"
+    },
+    "input/badges/Manchester_United_background.png": {
+      "checksum": "fbec3190aabea46ca47b2e9a4a680d37"
+    },
+    "input/badges/Newcastle_United.png": {
+      "checksum": "3da2845bfddd41cdda8a94d8adc9e335"
+    },
+    "input/badges/Newcastle_United_background.png": {
+      "checksum": "f28dff421bfd6403696a0dc15121e5c6"
+    },
+    "input/badges/Nottingham_Forest.png": {
+      "checksum": "0ae594141afc2e8baf4a1ed4f21d897d"
+    },
+    "input/badges/Nottingham_Forest_background.png": {
+      "checksum": "7ac99dfbf6cb5b9b89e7654e6cb3e418"
+    },
+    "input/badges/Sheff_Utd.png": {
+      "checksum": "759212b46ec0c03a2ee55f1e2dc820b4"
+    },
+    "input/badges/Sheff_Utd_background.png": {
+      "checksum": "6763ea0105fec3426cf050b84251c600"
+    },
+    "input/badges/Southampton.png": {
+      "checksum": "8303ccccebf5c95acd68be2644483aed"
+    },
+    "input/badges/Southampton_background.png": {
+      "checksum": "92637f44481a28afa5ba361cd67dd763"
+    },
+    "input/badges/Tottenham_Hotspur.png": {
+      "checksum": "8f8e6b29a18b2f093dc681e38a2c7e48"
+    },
+    "input/badges/Tottenham_Hotspur_background.png": {
+      "checksum": "617ed6f4c4a6d4fe38c9d8b8df9016ce"
+    },
+    "input/badges/West_Ham_United.png": {
+      "checksum": "c975c52be603de895fca82f41a750fbe"
+    },
+    "input/badges/West_Ham_United_background.png": {
+      "checksum": "debe9656a524097ea6b7d705e2456f38"
+    },
+    "input/badges/Wolverhampton_Wanderers.png": {
+      "checksum": "7c61ba979099e47e5212dbb227c855c4"
+    },
+    "input/badges/Wolverhampton_Wanderers_background.png": {
+      "checksum": "3f2175854366c6bfbe57e8f6995b6ef0"
+    },
+    "input/logo.png": {
+      "checksum": "5fb4ddf7bd03e15146944e48630d904a"
+    },
+    "input/stripes.png": {
+      "checksum": "6039be15f27d0f5132c2164e90226acd"
+    },
+    "input/www/.DS_Store": {
+      "checksum": "194577a7e20bdcc7afbb718f502c134c"
+    },
+    "input/www/Saints.ttf": {
+      "checksum": "7a735c760d12cb28500991336b0a41fc"
+    },
+    "input/www/WorkSans-ExtraBold.ttf": {
+      "checksum": "ba798a888a6f143213c92c3e83880d28"
+    },
+    "input/www/WorkSans-Regular.ttf": {
+      "checksum": "ecc32ca00e818b7d418ed7558995fa53"
+    },
+    "input/www/WorkSans-SemiBold.ttf": {
+      "checksum": "747025f0fa23db7f3dfa9671beffe8d3"
+    }
+  }
+}
